@@ -10,7 +10,7 @@ struct Empleado {
 
 int main() {
     int n;
-    cout << "Ingrese el número de empleados: "; cin >> n;
+    cout << "Ingrese el numero de empleados: "; cin >> n;
 
     Empleado empleados[n];
 
